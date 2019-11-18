@@ -1,0 +1,45 @@
+/*header section*/
+
+.header {
+    position: top;
+    width: 100%;
+    height: 200px;
+    background: #686868;
+  }
+
+
+/*body section*/
+
+  .body{
+    background: #FFFFFF;
+  }
+
+  .left-sidenav{
+      height: 100%;
+      width: 150px;
+      position: fixed;
+      top: 208px;
+      left: 0;
+      background: #DCDCDC;
+
+  }
+
+  .right-sidenav{
+      height: 100%;
+      width: 150px;
+      position: fixed;
+      top: 208px;
+      right: 0;
+      background: #DCDCDC;
+  }
+
+/*footer section*/
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100px;
+    background: #282828;
+}
